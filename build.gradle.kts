@@ -15,9 +15,9 @@ val quarkusPlatformVersion: String by project
 
 dependencies {
     implementation(enforcedPlatform("${quarkusPlatformGroupId}:${quarkusPlatformArtifactId}:${quarkusPlatformVersion}"))
-    implementation("io.quarkus:quarkus-resteasy-reactive-jsonb")
+    //implementation("io.quarkus:quarkus-resteasy-reactive-jsonb")
     implementation("io.quarkus:quarkus-mutiny")
-    implementation("io.quarkus:quarkus-resteasy-jsonb")
+    //implementation("io.quarkus:quarkus-resteasy-jsonb")
     implementation("io.quarkus:quarkus-resteasy-mutiny")
     implementation("io.quarkus:quarkus-kotlin")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")

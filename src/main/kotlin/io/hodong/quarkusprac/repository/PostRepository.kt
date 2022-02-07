@@ -1,0 +1,1 @@
+package io.hodong.quarkusprac.repository
