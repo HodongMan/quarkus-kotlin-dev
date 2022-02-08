@@ -22,6 +22,7 @@ dependencies {
     implementation("io.quarkus:quarkus-kotlin")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("io.quarkus:quarkus-arc")
+    implementation("io.quarkus:quarkus-reactive-mysql-client")
     testImplementation("io.quarkus:quarkus-junit5")
 }
 
