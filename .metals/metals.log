@@ -1,0 +1,32 @@
+[0m2022.03.02 08:47:12 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.03.02 08:47:17 INFO  time: initialize in 5.48s[0m
+[0m2022.03.02 08:47:20 WARN  Build server is not auto-connectable.[0m
+[0m2022.03.04 13:09:13 INFO  shutting down Metals[0m
+[0m2022.04.13 21:56:57 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.04.13 21:57:20 INFO  time: initialize in 23s[0m
+[0m2022.04.13 21:57:31 WARN  Build server is not auto-connectable.[0m
+[0m2022.04.13 21:57:37 INFO  skipping build import with status 'Requested'[0m
+[0m2022.04.13 21:58:01 INFO  shutting down Metals[0m
+[0m2022.04.29 18:50:27 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.04.29 18:50:42 INFO  time: initialize in 15s[0m
+[0m2022.04.29 18:50:46 WARN  Build server is not auto-connectable.[0m
+[0m2022.04.29 18:50:47 INFO  skipping build import with status 'Requested'[0m
+[0m2022.04.29 18:52:07 INFO  shutting down Metals[0m
+[0m2022.04.29 18:57:01 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.04.29 18:57:11 INFO  time: initialize in 10s[0m
+[0m2022.04.29 18:57:16 WARN  Build server is not auto-connectable.[0m
+[0m2022.04.29 18:57:18 INFO  skipping build import with status 'Requested'[0m
+[0m2022.04.29 19:08:56 INFO  shutting down Metals[0m
+[0m2022.05.14 10:47:02 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.05.14 10:47:09 INFO  time: initialize in 7.03s[0m
+[0m2022.05.14 10:47:14 WARN  Build server is not auto-connectable.[0m
+[0m2022.05.14 10:47:15 INFO  skipping build import with status 'Requested'[0m
+5¿ù 20, 2022 8:42:35 ¿ÀÈÄ org.eclipse.lsp4j.jsonrpc.services.GenericEndpoint notify
+INFO: Unsupported notification method: $/setTrace
+[0m2022.06.10 03:41:57 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.06.10 03:42:03 INFO  time: initialize in 6.79s[0m
+[0m2022.06.10 03:42:14 WARN  Build server is not auto-connectable.[0m
+[0m2022.06.10 03:42:15 INFO  skipping build import with status 'Requested'[0m
+[0m2022.06.10 09:32:29 INFO  Started: Metals version 0.10.9 in workspace 'C:\Users\hodong\Documents\dev\quakus.dev' for client Visual Studio Code 1.52.1.[0m
+[0m2022.06.10 09:32:34 INFO  time: initialize in 5.13s[0m
+[0m2022.06.10 09:32:40 WARN  Build server is not auto-connectable.[0m
